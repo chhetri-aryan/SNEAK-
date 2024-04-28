@@ -1,0 +1,36 @@
+// from app.jsx
+  //  {/* <div className='Home'>
+    //   <HomePage/>
+    // </div> */}
+
+    // {/* <div className='Footer z-0'>
+    //   <Footer />
+    // </div> */}
+
+    // {/* <Product/> */}
+
+    // {/* <Footer /> */}
+
+--------------------------------------
+
+
+main 
+ <div className="App">
+      <cartContext.Provider value={[cartcontext, setcartContext]}>
+        <div className='nav'>
+          <Nav />
+        </div>
+        <HomePage />
+        
+
+
+
+        <Cart />
+        <Footer />
+
+
+      </cartContext.Provider>
+    </div>
+
+
+    -------------------------

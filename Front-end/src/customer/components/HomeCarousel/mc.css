@@ -1,0 +1,21 @@
+.custom-dot-list-style button {
+    border: none;
+    background: rgb(135, 128, 128);
+}
+
+
+.react-multi-carousel-dot.react-multi-carousel-dot--active button {
+    border: none;
+    background: rgb(80, 74, 184) !important;
+    
+}
+
+
+.carousel{
+    height: 95vh;
+    width: 100%;
+    object-fit:cover;
+
+  }
+  
+  

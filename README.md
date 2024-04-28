@@ -1,2 +1,2 @@
 # SNEAK-
-It's an MERN Stack E-commerce application for Sneaker heads.
+It's a MERN Stack E-commerce application for Sneaker heads.
